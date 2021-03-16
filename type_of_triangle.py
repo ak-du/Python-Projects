@@ -1,5 +1,5 @@
 # Problem statement
-# To find the type of triangles
+# To find the type of triangles-Isosceles, equilateral or scalene
 
 side1 = 4
 side2 = 4
